@@ -1,1 +1,1 @@
-# amezonshopclone
+I created an Amazon clone using only HTML and CSS. This project replicates the design and layout of Amazon's website, featuring a navigation bar, product listings, and a footer section. It's a static front-end project that showcases web design skills and attention to detail, mimicking the look and feel of the original site.# amezonshopclone
